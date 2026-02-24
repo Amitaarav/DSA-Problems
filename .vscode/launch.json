@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/USER/Desktop/100xBootcamp/DSA/Day2-loops-patterns",
-      "program": "c:/Users/USER/Desktop/100xBootcamp/DSA/Day2-loops-patterns/build/Debug/outDebug",
+      "cwd": "c:/Users/USER/Desktop/100xBootcamp/DSA/codeforces/week-2-loops-patterns",
+      "program": "c:/Users/USER/Desktop/100xBootcamp/DSA/codeforces/week-2-loops-patterns/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
