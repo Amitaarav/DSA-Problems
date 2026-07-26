@@ -87,6 +87,7 @@ Each solution:
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/Amitaarav/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -96,4 +97,20 @@ Each solution:
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Amitaarav/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
