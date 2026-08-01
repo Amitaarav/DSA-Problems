@@ -113,4 +113,16 @@ Each solution:
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
