@@ -20,6 +20,9 @@ public:
             TreeNode* root = new TreeNode(0);
             return {root};
         }
+        if(mp.find(n) != mp.end()){
+            return mp[n];
+        }
 
         vector<TreeNode*> result;
 
