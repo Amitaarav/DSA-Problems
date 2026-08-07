@@ -120,6 +120,7 @@ Each solution:
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Each solution:
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,4 +143,16 @@ Each solution:
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
+## Recursion
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
