@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+    unordered_map<int, vector<TreeNode*>> mp;
+
     vector<TreeNode*> helper(int n){
         if(n % 2 == 0) return {};
 
@@ -36,7 +38,7 @@ public:
             }
         }
 
-        return result;
+        return mp[n] = result;
     }
 
     vector<TreeNode*> allPossibleFBT(int n) {
