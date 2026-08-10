@@ -129,6 +129,7 @@ Each solution:
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Each solution:
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Each solution:
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
