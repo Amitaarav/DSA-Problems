@@ -123,6 +123,7 @@ Each solution:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Amitaarav/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -140,6 +141,7 @@ Each solution:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Amitaarav/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -149,6 +151,7 @@ Each solution:
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -172,4 +175,12 @@ Each solution:
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
