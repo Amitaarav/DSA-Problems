@@ -116,6 +116,7 @@ Each solution:
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Amitaarav/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -130,6 +131,7 @@ Each solution:
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Amitaarav/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -138,10 +140,12 @@ Each solution:
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 ## Dynamic Programming
 |  |
