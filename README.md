@@ -91,6 +91,7 @@ Each solution:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/Amitaarav/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amitaarav/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Each solution:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amitaarav/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -186,4 +188,8 @@ Each solution:
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amitaarav/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
