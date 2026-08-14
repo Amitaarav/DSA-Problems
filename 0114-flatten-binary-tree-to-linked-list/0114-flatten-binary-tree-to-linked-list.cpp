@@ -11,35 +11,27 @@
  */
 class Solution {
 public:
-    TreeNode* dummy;
-    TreeNode* tail;
-
-    void preOrder(TreeNode* root){
+    void preOrder(TreeNode* root, vector<TreeNode*> &nodes){
         if(root == NULL) {
             return ;
         }
 
-        auto newNode = new TreeNode(root->val);
-        tail = newNode;
+        nodes.push_back(root);
 
-        preOrder(root->left);
-        preOrder(root->right);
+        preOrder(root->left, nodes);
+        preOrder(root->right, nodes);
     }
 
     void flatten(TreeNode* root) {
-        // dummy = new TreeNode (-1);
-        // preOrder(root);
-        // return dummy->right;
+        
+        vector<TreeNode*> nodes;
+        preOrder(root, nodes);
 
-        if(root == NULL) return;
+        int n = nodes.size();
 
-        flatten(root->right);
-        flatten(root->left);
-
-        root->right = tail;
-        root->left = NULL;
-
-        tail = root;
-
+        for(int i = 0; i + 1 < n; i++){
+            nodes[i]->right = nodes[i + 1];
+            nodes[i]->left = NULL;
+        }
     }
 };
