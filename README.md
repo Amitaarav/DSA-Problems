@@ -96,6 +96,7 @@ Each solution:
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Amitaarav/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Amitaarav/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -180,6 +181,7 @@ Each solution:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Amitaarav/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0894-all-possible-full-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0894-all-possible-full-binary-trees) |
 ## Recursion
 |  |
@@ -217,6 +219,7 @@ Each solution:
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amitaarav/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Amitaarav/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,9 +235,14 @@ Each solution:
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Amitaarav/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Amitaarav/DSA-Problems/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Amitaarav/DSA-Problems/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Amitaarav/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
