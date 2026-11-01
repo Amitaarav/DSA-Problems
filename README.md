@@ -109,6 +109,7 @@ Each solution:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amitaarav/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Amitaarav/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0881-boats-to-save-people](https://github.com/Amitaarav/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amitaarav/DSA-Problems/tree/master/1110-delete-nodes-and-return-forest) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amitaarav/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,6 +117,7 @@ Each solution:
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Amitaarav/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Design
 |  |
 | ------- |
