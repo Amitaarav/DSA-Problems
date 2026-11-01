@@ -107,6 +107,7 @@ Each solution:
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amitaarav/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amitaarav/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amitaarav/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amitaarav/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -171,6 +172,7 @@ Each solution:
 | [0099-recover-binary-search-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amitaarav/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amitaarav/DSA-Problems/tree/master/1110-delete-nodes-and-return-forest) |
@@ -178,6 +180,7 @@ Each solution:
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Dynamic Programming
@@ -247,4 +250,12 @@ Each solution:
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Amitaarav/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
