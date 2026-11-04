@@ -175,6 +175,7 @@ Each solution:
 | [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/Amitaarav/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Amitaarav/DSA-Problems/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -182,6 +183,7 @@ Each solution:
 | [0199-binary-tree-right-side-view](https://github.com/Amitaarav/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Amitaarav/DSA-Problems/tree/master/0617-merge-two-binary-trees) |
+| [0785-is-graph-bipartite](https://github.com/Amitaarav/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Amitaarav/DSA-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -254,8 +256,21 @@ Each solution:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Amitaarav/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amitaarav/DSA-Problems/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Amitaarav/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Amitaarav/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Amitaarav/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
